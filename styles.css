@@ -24,7 +24,7 @@ nav ul {
 
 nav ul li {
     display: inline;
-    margin: 0 15px;
+    margin: 0 15;
 }
 
 nav ul li a {
@@ -33,7 +33,7 @@ nav ul li a {
 }
 
 #intro {
-    padding: 50px;
+    padding: 50;
     text-align: center;
     background-color: #e8f0ff;
 }
