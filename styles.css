@@ -44,8 +44,8 @@ nav ul li a {
     background-color: #00cc11;
     color: white;
     text-decoration: none;
-    border-radius: 5px;
-    margin-top: 20px;
+    border-radius: 5;
+    margin-top: 20;
 }
 
 /* Services, About, Contact sections hidden initially */
